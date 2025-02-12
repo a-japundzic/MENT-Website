@@ -21,7 +21,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `yarn build`
 
-About:
+### About:
 This website was created to match mentors with mentees. The frontend was built using react-native with tailwind-css and bootstrap. The backend was built using AWS Amplify to store mentor and mentee information, assisted by a Flask API for the matching algorithm. 
 
 Pictures:
